@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raymond Qian from China
 - 👀 A Math and CS undergrduate student in Jiangsu University
-- 🌱 My interest is Computer Vision, especially medcal image process
+- 🌱 My interest is Computer Vision, especially Medcal Image Process
 - 💞️ My email address is Raymond.qiancx@gmail.com
 
 
