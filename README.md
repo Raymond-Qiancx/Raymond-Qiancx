@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Raymond Qian from China
-- 👀 A Math and CS undergrduate student in Jiangsu University
-- 🌱 My interest is Computer Vision, especially Medcal Image Process
-- 💞️ My email address is Raymond.qiancx@gmail.com
-
-
-
-<!---
-Raymond-Qiancx/Raymond-Qiancx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Qian Chengxuan (Raymond Qian)
+- 👀 A Math and CS sophomore undergraduate student in Jiangsu University
+- 🌱 My research interests includes Computer Vision(Medical Imaging) and Multimodal Learning(BioMedical Informatics, Multimedia)
+- 💞️ My email address is Raymond.qiancx@gmail.com; chengxuan.qian@qq.com
+- I'm now looking forward a Reseach Assistant Position and make further preperations to chase for CS PhD position.
