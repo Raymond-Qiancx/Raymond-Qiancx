@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Qian Chengxuan (Raymond Qian)
-- 👀 A Math and CS sophomore undergraduate student in Jiangsu University
-- 🌱 My research interests includes Computer Vision(Medical Imaging) and Multimodal Learning(BioMedical Informatics, Multimedia)
-- 💞️ My email address is Raymond.qiancx@gmail.com; chengxuan.qian@qq.com
-- I'm now looking forward a Reseach Assistant Position and make further preperations to chase for CS PhD position.
+Hello, I'm Chengxuan Qian, a Math&CS junior at Jiangsu University.
+My research interest includes 3D Vision, Multimodal Learning and Trustworthy ML for Medical Vision.
+See more in my [personal website](https://qiancx.com/)
