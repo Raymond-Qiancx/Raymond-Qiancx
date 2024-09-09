@@ -1,4 +1,4 @@
-Hello, I'm Chengxuan Qian, a Math & CS junior at Jiangsu University.
+Hello, I'm Chengxuan Qian, a Math & CS junior undergraduate at Jiangsu University.
 
 My current research is about 3D Vision, Multimodal Learning and Trustworthy ML for Medical Vision.
 
