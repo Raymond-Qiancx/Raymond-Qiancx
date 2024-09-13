@@ -5,7 +5,7 @@ My current research is about 3D Vision, Multimodal Learning and Trustworthy ML f
 Specifically, my research interests are:
 - Neural Representation and 3D/4D Reconstruction
 - Multimodal Scene Perception and Understanding
-- 2D/3D Generative Models
+- Multimodal Generative Models
 - Video Understanding and Analysis
 - Trustworthy Machine Learning Systems for Healthcare
 
