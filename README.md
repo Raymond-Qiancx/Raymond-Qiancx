@@ -1,12 +1,1 @@
-Hello, I'm Chengxuan Qian, a Math & CS junior undergraduate at Jiangsu University.
-
-My current research is about 3D Vision, Multimodal Learning and Trustworthy ML for Medical Vision.
-
-Specifically, my research interests are:
-- Neural Representation and 3D/4D Reconstruction
-- Multimodal Scene Perception and Understanding
-- Multimodal Generative Models
-- Video Understanding and Analysis
-- Trustworthy Machine Learning Systems for Healthcare
-
-See more in my [personal website](https://qiancx.com/).
+Hello, I'm Chengxuan Qian, a junior undergraduate major in Math & Computer Science, currently collaborating with [Zhengzhong Tu](https://vztu.github.io/) at Texas A&M University and [Yue Zhao] at USC on Reasoning and Alignment for Large Vision-Language Models. See more in my [personal website](https://qiancx.com/).
