@@ -3,7 +3,7 @@ Hello, I'm Chengxuan Qian, a rising senior undergraduate student with a strong i
 - [My Website](https://qiancx.com/)
 - [My Twitter](https://x.com/qian_xuan46760)
 - [My Google Scholar](https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN)
-- [My Linkedin]([https://qiancx.com/](https://www.linkedin.com/in/chengxuan-qian/))
+- [My Linkedin](https://www.linkedin.com/in/chengxuan-qian/)
 - My Email: please switch to my personal website
 - My Wechat ID: qiancxdotcom
 
