@@ -7,4 +7,3 @@ Hello, I'm Chengxuan Qian, a rising senior undergraduate student with a strong i
 - My Email: please switch to my personal website
 - My Wechat ID: qiancxdotcom
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vztu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
