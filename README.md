@@ -4,6 +4,6 @@ Hello, I'm Chengxuan Qian, an incoming CS PhD at University of California, Santa
 - [My Twitter](https://x.com/qian_xuan46760)
 - [My Google Scholar](https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN)
 - [My Linkedin](https://www.linkedin.com/in/chengxuan-qian/)
-- My Email: open.qiancx@gmail.com
+- My Email: chengxuanqian@ucsb.edu
 - My Wechat ID: qiancxdotcom
 
