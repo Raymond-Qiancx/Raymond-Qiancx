@@ -5,5 +5,5 @@ Hello, I'm Chengxuan Qian, a CS PhD Student at **University of California, Santa
 - [My Google Scholar](https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN)
 - [My Linkedin](https://www.linkedin.com/in/chengxuan-qian/)
 - My Email: chengxuanqian@ucsb.edu
-- My Wechat ID: qiancxdotcom
+- My Wechat ID: qiancx0502
 
